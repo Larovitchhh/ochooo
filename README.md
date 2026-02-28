@@ -1,4 +1,4 @@
-# Fungible token
+# ochooo
 
 Fungible tokens are digital assets that can be sent, received, combined, and divided.
 
